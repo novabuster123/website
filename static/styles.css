@@ -54,11 +54,6 @@ nav ul li.active a {
     background-color: #f8c2c2;
 }
 
-/* main {
-    max-width: 960px;
-    margin: auto;
-    padding: 1rem;
-} */
 
 .card-body {
     padding: 1rem;
@@ -108,4 +103,8 @@ footer {
     left: 0;
     bottom: 0;
     border-top: 1px solid #f8c2c2;
+}
+
+.aboutme {
+    text-align: center;
 }
